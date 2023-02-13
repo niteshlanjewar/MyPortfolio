@@ -1,7 +1,7 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://www.linkedin.com/in/vmmuthu31/" target="_blank">Vairamuthu</a>
-  <p>The dynamic personal portfolio for the software developers built in the reactjs. This Web Application consists of my projects, certifications, resume and about page.</p>
+  <a href="https://www.linkedin.com/in/nitesh-lanjewar-688367234/" target="_blank">Nitesh</a>
+  <p>The dynamic personal portfolio for the software developers built in the reactjs. This Web Application consists of my projects, resume and about page.</p>
 </h2>
 
 ![image](https://user-images.githubusercontent.com/88650559/183739567-4bd4abfe-5871-4cfd-b8b2-dadd22186284.png)
