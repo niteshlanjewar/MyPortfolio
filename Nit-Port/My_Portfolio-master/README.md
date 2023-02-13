@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://www.linkedin.com/in/nitesh-lanjewar-688367234/" target="_blank">Nitesh</a>
+  <a href="https://www.linkedin.com/in/nitesh-lanjewar-688367234/" target="_blank">Nitesh R Lanjewar</a>
   <p>The dynamic personal portfolio for the software developers built in the reactjs. This Web Application consists of my projects, resume and about page.</p>
 </h2>
 
